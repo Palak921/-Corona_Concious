@@ -1,0 +1,111 @@
+#title {
+    background-color: #6D4FDC;
+    color: #fff;
+    position: relative;
+    text-align: left;
+    padding: 0 10%;
+}
+.main {
+    padding-top: 2% 10%;
+     height: 0px !important
+}
+.navbar {
+    padding-bottom: 5rem;
+   
+}
+.navbar-brand {
+    font-family: 'PT Serif', serif;
+    font-size: 5rem;
+    font-weight: bold;
+}
+.symphead {
+    text-align: center;
+    font-style: 8rem;
+    color: black;
+    padding-top: 10px;
+    background-color: #fff
+}
+.head1 {
+    font-family: 'PT Serif', serif;
+    background-color: #9370DB !important;
+/*    height: 50px !important;*/
+    color: #fff!important;
+    vertical-align: middle;
+}
+.coloured {
+    background-color: #9370DB;
+    margin-bottom: 10px;
+    padding-bottom: 15px
+}
+.third {
+    background-color: #9370DB;
+    color: #fff;
+    vertical-align: middle;
+    padding: 2% 20%;
+}
+.sym2 {
+    background-color: #6d4fdc
+}
+li {
+    margin-bottom: 15px;
+}
+.boxed {
+    border: 5px solid #6d4fdc;
+    border-spacing: 2px;
+}
+.symptoms {
+    padding: 35px;
+    padding-top: 25px;
+}
+.first {
+    padding: 30px;
+}
+.image {
+    padding: 10px
+}
+.col2 {
+    padding-top: 20px;
+    font-size: 0.5rem;
+    padding-bottom: 10px;
+}
+.col3 {
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+.image {
+    height: 70%;
+}
+.risk2 {
+    font-size: 1rem;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.last {
+    padding-top: 30px;
+    background-color: #6d4fdc;
+}
+.col1 {
+    background-color: blue padding-right: 0px;
+}
+.riskimage {
+    padding-top: 90px;
+    vertical-align: middle;
+}
+.sym {
+    padding: 50px;
+    padding-left: 250px;
+    grid-column-gap: 10px;
+    font-size: 1.5rem;
+}
+.sec {
+    padding: 30px;
+}
+.footer-text {
+    color: black
+}
+.link {
+    color: white;
+}
+.link:hover {
+    color: yellow
+}
